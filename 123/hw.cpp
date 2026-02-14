@@ -1,5 +1,7 @@
 #include <iostream>
 
+void getHelp()
+
 int main(
     int argc, char* argv[]){
 
